@@ -1,0 +1,12 @@
+Retinopathy of Prematurity Stage III Disease Diagnosis
+Hybrid Model combining Morphological Operations for Image Preprocessing and CNN for Disease diagnosis
+
+toc: true
+badges: true
+comments: true
+author: Elizabeth Mutua, Dr. Bernard Shibwabo & Prof. Christoph Reich
+categories: [python, deep learning, computer vision]
+image: images/retina.png
+1. Research Overview
+This project utilised morphological operations to preprocess images and build a Convolutional Neural Network (CNN) for ROP stage III disease diagnosis. 
+The project was completed as a PhD research work and data obtained from Kaggle database and a private dataset from KNH hospital.The modeling is performed in PyTorch. All notebooks and a PDF report are available
